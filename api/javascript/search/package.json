@@ -10,8 +10,8 @@
     "express": "^4.16.4",
     "node-fetch": "^2.5.0",
     "node-localstorage": "^1.3.1",
-    "@octokit/app": "^1.1.0",
-    "@octokit/request": "^2.2.0"
+    "@octokit/app": "^10.0.0",
+    "@octokit/request": "^9.2.1"
   },
   "engines": {
     "node": "8.x"
